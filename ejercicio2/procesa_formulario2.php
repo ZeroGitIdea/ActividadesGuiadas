@@ -1,4 +1,7 @@
 <?php
+/*
+* Mostrar formulario dinámicamente 
+*/
  $formulario = array(
     'nombre',
     'apellidos',
